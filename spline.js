@@ -1,5 +1,5 @@
 /**
- * spline.js — ideal-sniffle
+ * spline.js — neon-tunnel
  * @author d28035203
  */
 

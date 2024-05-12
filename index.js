@@ -1,5 +1,5 @@
 /**
- * index.js — ideal-sniffle
+ * index.js — neon-tunnel
  * @author d28035203
  */
 
